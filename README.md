@@ -4,6 +4,8 @@
 
 Real-time AI copilot designed to assist call center agents during hotel reservation calls.
 
+![Pipeline](./diagram_process.png)
+
 The system combines:
 - Live speech-to-text transcription
 - LLM-based information extraction and reasoning
